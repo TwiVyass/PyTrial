@@ -1,0 +1,3 @@
+mport pandas as pd
+s=pd.Series("I","Feel","very","pathetic","about","this")
+print(s)
